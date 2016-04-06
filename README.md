@@ -1,3 +1,5 @@
+#Project for now discontinued!
+
 # SuperSpam_HTML
 
 A Little side project for SuperSpam. this is the only open-source project of SuperSpam.
